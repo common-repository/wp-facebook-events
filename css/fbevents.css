@@ -1,0 +1,67 @@
+/*
+Plugin Name: FacebookEvents
+Plugin URI: http://facebook.iintense.com/
+Description: Create Facebook events via WordPress Admin
+Author: iiNTENSE Media
+Version: 1.0
+Author URI: http://iintense.com
+*/
+
+#eventslist td {
+    text-align: center;
+}
+
+.fbeventbox {
+    font-size: 12px;
+    color: #283d58;
+}
+.eventdata {
+    display: inline;
+    font-size: 12px;
+}
+
+.eventheading {
+    /*padding: 0 30px;*/
+    width: 100px;
+    float: left;
+}
+
+.eventrsvpbutton {
+    /*profile: 779ed2*/
+    display: inline;
+    padding: 10px 15px;
+    border: 1px solid #afc4c2;
+    background-color: #e8edf0;
+    margin-right: 10px;
+}
+.eventdisplaydiv {
+    border-bottom: 1px solid #d8dcdb;
+    padding-bottom: 10px;
+}
+.eventrsvpbox {
+    padding-top: 10px;
+    border-bottom: 1px solid #d8dcdb;
+    padding-bottom: 10px;
+}
+.eventattendinglist {
+    padding-top: 10px;
+}
+.fbeventattendtext {
+    color: #90a4b2;
+}
+.fbeventattendinglist {
+    padding: 10px;
+}
+.fbeventattendingprofile {
+    float: left;
+    padding-right: 20px; 
+}
+.fbeventattendingprofile span {
+    top: 10px;
+    position: relative;
+    padding-left: 5px;
+}
+.fbeventprofilename {
+    vertical-align: middle;
+    height: 25px;
+}
